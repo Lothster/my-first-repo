@@ -1,0 +1,23 @@
+commit e6e77cd532ca5abf6c162916784a7b3448587006
+Author: lothster <lothster@hotmail.com>
+Date:   Wed Oct 17 15:10:40 2018 -0500
+
+    piss.txt added to gitignore
+
+commit de8d92989d20de6d8268dbbf8715f2f512fe5810
+Author: lothster <lothster@hotmail.com>
+Date:   Wed Oct 17 14:57:51 2018 -0500
+
+    added gitignore
+
+commit c4721187c59b0921a5908096dace93b4a1654b01
+Author: lothster <lothster@hotmail.com>
+Date:   Wed Oct 17 13:35:51 2018 -0500
+
+    added two files
+
+commit 5585ba43a6147d6fb5cf96d6869f75d79de84168
+Author: lothster <lothster@hotmail.com>
+Date:   Wed Oct 17 13:31:42 2018 -0500
+
+    added readme.txt
